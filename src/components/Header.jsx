@@ -31,7 +31,7 @@ const Header = () => {
 
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-purple-700">
-          🎮 Shoppire
+          🎮 Esports
         </Link>
 
         {/* Navbar */}

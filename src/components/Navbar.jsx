@@ -19,7 +19,7 @@ const Navbar = ({ containerStyles, toggleMenu, menuOpened }) => {
       {menuOpened && (
         <div className="flex justify-between items-center mb-10">
           <Link to="/" className="text-2xl font-bold text-purple-700">
-            🎮 Shoppire
+            🎮 Esports
           </Link>
 
           <FaRegWindowClose

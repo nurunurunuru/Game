@@ -11,7 +11,7 @@ const Footer = () => {
             <div>
                 <Link to="/">
                 <h4 className='bold-24 text-secondary'>
-                    Shoppire
+                    Esports
                 </h4>
                 </Link>
                 <p className=' text-white mt-5'>
